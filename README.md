@@ -1,3 +1,3 @@
 # omniFood project
 
-eat well,taste wells
+eat well,taste well
